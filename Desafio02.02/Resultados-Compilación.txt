@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Desafio02.02, configuración: Debug Any CPU ------
+1>Desafio02.02 -> D:\Users\User\Documents\tutoria\Desafio02.02\Desafio02.02\bin\Debug\netcoreapp3.1\Desafio02.02.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
